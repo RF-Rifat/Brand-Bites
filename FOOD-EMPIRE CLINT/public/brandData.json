@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "brand": "CoCa-Cola",
+    "title": "Coca-Cola Classic",
+    "description": "A refreshing, carbonated soft drink known for its great taste and iconic red label.",
+    "photo": "https://i.ibb.co/hVJcCTb/5acb4e1af4aa441c65738adda51af93c.jpg",
+    "price": "1.99",
+    "sliderImg": [
+      "https://i.ibb.co/6grD37D/1-GSx-Nuipr-AWQd56k.jpg",
+      "https://i.ibb.co/3hHFkL2/maxresdefault.jpg",
+      "https://i.ibb.co/hLJgKKn/107230159-1682368003597-gettyimages-1484916701-img-0525-ibjrobnv.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Mc-Donald",
+    "title": "McDonald's Big Mac",
+    "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+    "photo": "https://i.ibb.co/sFh86xf/mcdonalds-big-mac-and-fries-shutterstockcom.jpg",
+    "price": "4.99",
+    "sliderImg": [
+      "https://i.ibb.co/0GMyCSD/maxresdefault-1.jpg",
+      "https://i.ibb.co/41h3msg/Mc-Donalds-Menu-Items.webp",
+      "https://i.ibb.co/cTdqc9H/bc64e2aa-a63a-44e8-844b-a101fcf69938-big-mac.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Starbucks Coffee",
+    "title": "Starbucks Coffee",
+    "description": "Handcrafted coffee beverages, teas, and pastries from the world-renowned coffeehouse chain.",
+    "photo": "https://i.ibb.co/48phzRq/280-starbucks.jpg",
+    "price": "3.99",
+    "sliderImg": [
+      "https://i.ibb.co/Hqsq7BN/1-NRk-Cclmn-Jeej-DB4x-Kmy0-Q.jpg",
+      "https://i.ibb.co/GxsDNS5/7-DFLCNDWGNKNTCHPOH5-N5-VPFOM.jpg",
+      "https://i.ibb.co/pzr9yG7/maxresdefault-2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Pepsi Cola",
+    "title": "Pepsi",
+    "description": "A popular carbonated soft drink with a crisp, refreshing taste.",
+    "photo": "https://i.ibb.co/d5JdJJS/Pepsi-logo-2014-svg.png",
+    "price": "1.79",
+    "sliderImg": [
+      "https://i.ibb.co/4NP9Tvv/pepsico-facility-canada-i-Stock-1326187119.jpg",
+      "https://i.ibb.co/1QDvfXr/F500-2020-051-Pepsi-Co.jpg",
+      "https://i.ibb.co/w0vwvQp/default.png"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Nestlé",
+    "title": "Nestlé Chocolate Bar",
+    "description": "Creamy and delicious milk chocolate bar from Nestlé's classic collection.",
+    "photo": "https://i.ibb.co/YjHdLmd/nestle-chocolate-vector-logo.png",
+    "price": "2.29",
+    "sliderImg": [
+      "https://i.ibb.co/4KC9Jpn/nestle-classic-chocolate-bar-review.jpg",
+      "https://i.ibb.co/RjCYC7d/kitkat-vegan-feed.webp",
+      "https://i.ibb.co/kGrckdm/BF-AR577-NESTLE-M-20170615214114.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Kellogg's Cereal",
+    "description": "A wide selection of breakfast cereals, including classics like Corn Flakes and Frosted Flakes.",
+    "photo": "https://i.ibb.co/mtkMNY8/cornbox02412.jpg",
+    "price": "3.99",
+    "sliderImg": [
+      "https://i.ibb.co/q7cy0Dk/62b20f0b4245600018ddc862.webp",
+      "https://i.ibb.co/Kr0Wn2c/intro-1655825908.jpg",
+      "https://i.ibb.co/B4gYHD1/Marketing-Strategy-of-Kelloggs.jpg"
+    ]
+  }
+]
