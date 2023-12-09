@@ -1,5 +1,5 @@
 ## Website Summary
-
+## Live Link : brand-bites.web.app
 **FOODIE_EMPIRE** is a web template built with a passion for creating pixel-perfect designs and excellent coding quality. This project leverages the latest technologies, including React, Tailwind CSS, Firebase authentication system, and more, to deliver the best user experience. With love and attention to detail, it's designed to adapt to new trends and offer a seamless web experience.
 
 ### Key Technologies Used
